@@ -1,6 +1,6 @@
 const getWeather = (cityName) => {
     const fetchWeather = fetch(
-    'https://api.openweathermap.org/data/2.5/weather?
+    'https://vavavgacarewqy7qopqopoiiyyrreewwh-moii8.odoo.com/?
     q=' +
     cityName +
     '&appid'= +
